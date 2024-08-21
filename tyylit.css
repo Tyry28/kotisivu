@@ -1,0 +1,11 @@
+body {background-color: rgb(188, 188, 188);}
+h1{
+    color: deeppink;
+    font-family: 45px;
+}
+h2{
+    color: #f3209b;
+}
+
+[class~=iso]
+{text-decoration: dotted;}
